@@ -9,3 +9,4 @@ tags:
 languages:
   - language1
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/ttt-4-display-board-rb.git
